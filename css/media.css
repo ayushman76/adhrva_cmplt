@@ -1,0 +1,60 @@
+@media(max-width:1200px){
+.logo>img {
+    width: 100%!important;
+}.my_facility {
+    
+    height: auto;
+}.layer:after {
+        content: "";
+    position: absolute;
+    width: 50%;
+    background: rgb(67 47 110);
+    height: 83px;
+    transform: skewY(170deg)!important;
+    box-shadow: 0px 57px 37px 1px #f1f1f1;
+    right: 0px;
+    border: 0px;
+	margin: -2px 0px;
+   
+}
+
+section {
+    background: rgb(245 245 220);
+    padding: 99px 0px 0px 0px;
+}
+.fa-bars{
+	display:block!important;
+}
+.myNav_item{
+display: none;
+    
+    position: absolute;
+    background: rgb(67, 47, 110);
+    width: 100%;
+    padding: 10px;
+    top: 42px;
+    right: 0px;
+}
+.item>.col-md-4{
+	width: 100%!important;
+	float:left;
+}
+
+.triangle-up {
+  width: 0;
+    height: 0;
+    border-left: 19px solid rgb(0 0 0 / 0%);
+    border-right: 28px solid rgb(0 0 0 / 0%);
+    border-bottom: 43px solid rgb(255 255 255);
+    position: absolute;
+    transform: rotateZ(0deg);
+    left: 15px;
+    right: 75px;
+    top: -47px;
+
+}
+.treatment_item>img {
+    height: auto!important;
+    width: 100%!important;
+}
+}
